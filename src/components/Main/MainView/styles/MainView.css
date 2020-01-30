@@ -1,0 +1,78 @@
+.zApp {
+  font-family: verdana;
+  font:14px normal tahoma, sans-serif;
+  color:#626771;
+  background-color:#fff;
+}
+
+.z-app-logo {
+  height: 70px;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+footer{
+  border-top: 1px solid #d3d3d3;
+  height: 35px;
+  background-color: #d7faff;
+}
+
+header{
+  margin-top: -12px; /*e9f8f3*/
+  background: linear-gradient(to bottom, #cefced, rgb(255, 255, 255) 40%);
+}
+
+.module-menu-line-color {
+  background-color:#d7faff;
+}
+
+.progress{
+  z-index:2098;
+}
+
+a.internal-page-link-calm:link {
+  color:#626771;
+}
+
+a.internal-page-link-calm:visited {
+  color:#626771;
+}
+a.internal-page-link-calm:hover {
+  color: #154088; 
+}
+
+a.internal-page-link-calm:active {
+  color:#626771;
+}
+
+a.internal-page-link-calm:link {
+  color:#626771;
+}
+
+a.internal-page-link-calm-nu:visited {
+  color:#626771;
+}
+a.internal-page-link-calm-nu:hover {
+  text-decoration: none; 
+  color: #154088; 
+}
+
+a.internal-page-link-calm-nu:active {
+  color:#626771;
+}
+
+.zalert-info-card{
+  background-color:rgb(241, 250, 250);
+}
+
+.app-modules{
+  margin-bottom: 13vh;
+}
+
+kbd {
+  background-color: lightblue;
+  color: #333;
+}

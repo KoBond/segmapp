@@ -1,0 +1,12 @@
+.img-grid-line ul{
+    list-style:none;
+    display: inline-block;
+}
+
+.img-grid-line ul li{
+    display: inline-block;
+    cursor:pointer;
+    background-color:rgb(215, 250, 255);
+    color:#7B8585;
+    transition:0.3s;
+}

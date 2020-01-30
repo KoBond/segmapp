@@ -1,0 +1,41 @@
+.nav-menu-line ul li.focused A {
+    color:rgb(235, 235, 235); /* Links color */
+}
+
+.nav-menu-line ul li A {
+    color:rgb(48, 155, 182); /* Links color */
+}
+
+.nav-menu-line ul{
+    list-style:none;
+    display: inline-block;
+}
+
+.nav-menu-line ul li{
+    display: inline-block;
+    cursor:pointer;
+    background-color:rgb(215, 250, 255);
+    color:#7B8585;
+    transition:0.3s;
+}
+
+.nav-menu-line ul li:hover{
+    background-color:#beecea;
+}
+
+.nav-menu-line ul li.focused{
+    color:#fff;
+    background-color:#41c7c2;
+}
+
+.nav-menu-line a:hover{
+    text-decoration: none;
+}
+
+.nav-menu-line ul li.attention{
+    background-color:#ffd0d0;
+}
+
+.nav-menu-line ul li.focused.attention{
+    background-color:#41c7c2;
+}
