@@ -20,12 +20,12 @@ export const MainAboutView = (systemVersion) => (
             <div className="alert alert-info zalert-info-card" role="alert">
               <p>Neural Image Segmentation Demo</p>
               <hr/>
-              <p>Segmentation pictures of camera images and jpg files</p>
-              <p>for &nbsp;              
+              <p>Segmentation pictures of camera images and jpg images</p>
+              <p>for course work of &nbsp;              
                 <a title="Deep Learning Scool" 
                  href="https://www.dlschool.org/"
                  className="internal-page-link-calm">
-                 Deep Learning Scool
+                 Deep Learning School
                 </a>
               </p>              
             </div>

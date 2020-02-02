@@ -44,7 +44,7 @@ export default class ImagePreviewPage extends Component {
         </div>
 
         <div className="row mt-2">
-          <div className="col">
+          <div className="col text-center" >
             <img src={ sourceFileUrl } className="img-fluid rounded" alt=""/>
           </div>
         </div>

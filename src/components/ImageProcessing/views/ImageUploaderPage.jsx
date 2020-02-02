@@ -121,6 +121,7 @@ export default class ImageUploaderPage extends Component {
                 <div className="custom-file">
                   <input type="file"
                     className="custom-file-input"
+                    accept=".jfif, .jpeg, .jpg"
                     onChange={this.handleFileChange}
                   />
                   <label className="custom-file-label">{this.state.fsFileName}</label>
